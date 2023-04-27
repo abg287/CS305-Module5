@@ -4,4 +4,4 @@ This robot will provide health care services if it hears or senses someone in pa
 Once everything is done, we can make more of these robots and help save someone.
 
 # License
-This project has the [Awesome License](LICENSE.md).
+This program is licensed under the [Dopeness License](LICENSE.md).
