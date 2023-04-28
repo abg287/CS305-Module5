@@ -3,3 +3,4 @@ To be part of this project, you must contact the collaborators and they must con
 to contribute to this amazing project.
 
 Meaghan Freund mof25@nau.edu
+Eduardo De La Rosa ed588@nau.edu
